@@ -1,0 +1,1 @@
+Term frequency is calculated by dividing the number of times a term appears in a document buy the number of terms in that document

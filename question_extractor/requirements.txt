@@ -1,0 +1,6 @@
+Django==3.0.4
+names-dataset==1.9.0
+nltk==3.4.5
+numpy==1.18.0
+requests==2.20.1
+textract==1.6.3

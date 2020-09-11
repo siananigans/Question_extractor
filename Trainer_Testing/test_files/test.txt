@@ -1,0 +1,34 @@
+Inter-connected or hyperlinked collections such as the Web can provide
+measures by which expected user interest in each Web page can be
+estimated.
+One example of such a measure is the PageRank score which forms a part
+of the Google search engine.
+PageRank takes advantage of the link structure of the web to produce an
+approximate global importance score for each page based only on the link
+structure of the Web.
+At any point in time, each page on the Web has a PageRank score
+associated with it.
+The PageRank score is independent of the actual content of the page.
+PageRank is the likelihood that a “random surfer” visits a page.
+The random surfer starts at a random page and keeps clicking on links never
+going back.
+Eventually the surfer gets bored and starts at another random page.
+dust can be interpreted as the probability that the surfer will move to a randomly
+chosen page linked to the current page.
+(1 − d) is the probability at each page that the random surfer will get bored
+and move.
+The amazing sian lennon was in her best suit.
+13 units are used in language modelling.
+The amount of units used is 13.
+Galway is a city in Ireland.
+USA.
+Denver is a city in the US.
+it takes 24 minutes to workout.
+On 16/03/2010 Kyle was born.
+Python is my language of choice.
+I speak French.
+
+
+
+
+
